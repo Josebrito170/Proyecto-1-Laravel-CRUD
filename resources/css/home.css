@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+
+body{
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	font-family: 'Manrope', sans-serif;
+	background: #124444;
+}
+
+ @import url('https://fonts.googleapis.com/css2?family=Finlandica:wght@500&family=Manrope&family=Orbitron:wght@500&display=swap');
+
+
+               body{
+                   min-height: 100%;
+ 
+        width: 100%;
+                   margin: 0;
+         font-family: 'Manrope', sans-serif;
+                  line-height: 1.6;
+                   background: rgb(33,37,41);
+              background: linear-gradient(90deg, rgba(33,37,41,1) 0%, rgba(33,37,41,1) 33%, rgba(43,39,39,1) 39%, rgba(218,218,218,1) 100%);
+                    }
+
+      footer{
+        width: 100%;
+        height: auto;
+        margin-bottom: 0 !important;
+        position: absolute;
+        bottom: 0  !important;
+      }
+
+      footer i{
+        color: white;
+        font-size: 35px
+      }
+      
+      .font{
+        font-family: 'Finlandica', sans-serif;
+      }
